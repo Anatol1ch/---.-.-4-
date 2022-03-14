@@ -27,6 +27,7 @@ int main() {
     break;
 	
 	  case 5; 	// code
+    result = pow(a, b);
 	  break;
 
   }
